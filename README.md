@@ -71,7 +71,7 @@ pip install -r requirements.txt
 To run:
 ```bash
 python demo.py
-
+```
 
 
 ---
@@ -103,6 +103,7 @@ python demo.py
 ```bash
 export AWS_ACCESS_KEY_ID="your_aws_access_key"
 export AWS_SECRET_ACCESS_KEY="your_aws_secret"
+```
 
 ### 🧊 Step 13: Model Evaluation and Pushing to S3
 - Created an S3 bucket named `my-model-mlopsproj` in the `us-east-1` region.
