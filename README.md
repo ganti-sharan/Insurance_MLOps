@@ -30,7 +30,7 @@ I defined local package setups using `setup.py` and `pyproject.toml`. For guidan
 conda create -n vehicle python=3.10 -y
 conda activate vehicle
 pip install -r requirements.txt
-
+```
 
 ---
 
